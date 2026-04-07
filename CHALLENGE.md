@@ -39,7 +39,7 @@ Depth on a few issues is valued over shallow fixes across many.
 
 ---
 
-## What Interviewers Are Looking For
+## What we Are Looking For
 
 - Do you identify **root causes**, not just surface symptoms?
 - Do you prioritise by **business and operational impact**, not code aesthetics?
