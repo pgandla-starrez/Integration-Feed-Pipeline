@@ -4,7 +4,7 @@
 
 A Node.js/TypeScript service that runs scheduled sync jobs to pull data from third-party APIs into the platform database. It integrates with:
 
-- a **Property Management System** to keep property listings up to date
+- a **Property Management System** to keep property listings up to date — delivered as a large XML feed
 - a **Payment Gateway** to ingest transaction records
 - a **University Directory** to maintain tenant/student records
 
